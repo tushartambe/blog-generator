@@ -1,0 +1,36 @@
+body {
+  border: 1px solid red;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: purple;
+}
+h1 {
+  text-align: right;
+}
+h2 {
+  text-align: center;
+  margin: 20px;
+}
+h4 {
+  text-align: right;
+  margin: 10px;
+}
+p {
+  text-align: justify;
+  margin: 20px;
+}
+img {
+  align-items: left;
+  border: 1px solid blue;
+  width: 450px;
+  margin-left: 60%;
+  height: 250px;
+  border-radius: 80px;
+}
+div {
+  border-top: 3px solid black;
+  border-top-style: dashed;
+
+  margin: 15px;
+  background-color: brown;
+}

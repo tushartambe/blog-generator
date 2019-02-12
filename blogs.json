@@ -1,7 +1,7 @@
 {
   "title": "MY FAVOURITE STORY BOOK AND MOVIE CHARACTERS",
   "description": "Here is the list of some of my favourite movie and story book characters.",
-  "theme": "black_and_white",
+  "theme": "rainbow",
   "posts": [
     {
       "title": "Karna",
@@ -38,6 +38,13 @@
       "author": "Shubham",
       "date": "2019-01-03",
       "description": "It's a story of a princess born with magical golden hairs."
+    },
+    {
+      "title": "swagata",
+      "imagePath": "https://www.gettyimages.ie/gi-resources/images/Homepage/Hero/UK/CMS_Creative_164657191_Kingfisher.jpg",
+      "author": "swagata",
+      "date": "2019-01-23",
+      "description": "It's a story of a princess born with magical golden hairs.g the super  heroes who have a good sense of humor. A typical iron man movie usually has parts that make people laugh. Tony stark's personality is very complex. He is a business man and CEO but he is also a super hero and a great engineer. The complex"
     }
   ]
 }
